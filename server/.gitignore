@@ -1,0 +1,4 @@
+node_modules
+uploads/*.jpeg
+!uploads/*.svg
+*.sqlite*
